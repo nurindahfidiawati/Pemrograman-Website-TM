@@ -1,0 +1,15 @@
+.gambar{
+    display: inline-block;
+    margin-left: 50%;
+    margin-top: -25%;
+}
+.gambar1{
+    display: inline-block;
+    margin-left: 50%;
+    margin-top: -35%;
+}
+
+
+.form-signin{
+    display: inline;
+}
